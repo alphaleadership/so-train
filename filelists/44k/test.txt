@@ -1,0 +1,2 @@
+dataset/44k/perso/chap 1 belgarat_2937.700_2942.700.wav
+dataset/44k/perso/chap 2 belgarat_34.600_37.500.wav
